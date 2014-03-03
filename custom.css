@@ -2,6 +2,6 @@
   color: whitesmoke;
 }
 #preso .slide {
-  background-image: url('/file/noise.png') !important;
+  background-image: url('./noise.png') !important;
   background-repeat: repeat !important;
 }
