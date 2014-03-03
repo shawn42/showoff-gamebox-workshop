@@ -1,0 +1,7 @@
+#notes {
+  color: whitesmoke;
+}
+#preso .slide {
+  background-image: url('./noise.png') !important;
+  background-repeat: repeat !important;
+}
