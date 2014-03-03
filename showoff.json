@@ -1,0 +1,10 @@
+{ "name": "Game dev with Gamebox", "sections": 
+  [ 
+    {"section":"intro"},
+    {"section":"who"},
+    {"section":"what"},
+    {"section":"code"},
+    {"section":"info"}
+   ]
+}
+
